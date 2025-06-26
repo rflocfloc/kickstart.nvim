@@ -1,6 +1,6 @@
 return {
   -- Definisce il plugin nvim-ansible
-  'pearofducks/nvim-ansible',
+  'mfussenegger/nvim-ansible',
   -- Specifica i tipi di file per cui questo plugin deve essere caricato.
   -- LazyVim usa 'ft' per caricare i plugin solo quando necessario, ottimizzando l'avvio.
   ft = { 'yaml.ansible', 'yaml' },
